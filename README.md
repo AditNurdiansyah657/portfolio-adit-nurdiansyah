@@ -1,3 +1,5 @@
-## Status: Maintenance
+## Status: Development
 
-🔗 (Online Version)[https://aditnurdiansyah.my.id]
+## 🌐 Live Demo
+
+🔗 [Online Version](https://aditnurdiansyah.my.id)
